@@ -1,1 +1,38 @@
+# CMake build directory
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Binaries
+/bin/
+/*.exe
+/*.out
+/*.o
+/*.obj
+
+# VS Code settings (keep only specific files if needed)
+.vscode/
+/.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*.swo
+*.DS_Store
+*.directory
+
+# IDE-specific
+.idea/
+*.iml
+
+# System files
+Thumbs.db
+.DS_Store
+
+# additional
 .wakatime-project
