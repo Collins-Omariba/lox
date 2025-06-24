@@ -6,6 +6,7 @@ cmake_install.cmake
 
 # Binaries
 /bin/
+/obj/
 /*.exe
 /*.out
 /*.o
